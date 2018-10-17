@@ -1,0 +1,14 @@
+body{
+  background-image: url("http://res.cloudinary.com/dy7we2b3q/image/upload/v1502402410/jason-blackeye-295313_yjo2tj.jpg");
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.container-fluid{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
